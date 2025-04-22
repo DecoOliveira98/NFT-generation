@@ -8,7 +8,8 @@ Confira minha NFT diretamente no OpenSea:
 
 🔗 [Ver NFT no OpenSea](https://opensea.io/assets/ethereum/0x56243e07fdda8bd4dfe5b8f522da5ae0c51c5480/1)
 
-![NFT](https://i.seadn.io/gcs/files/3d2672e7a7b9a9cfa0d1a8788e3554e5.png?auto=format&dpr=1&w=750)
+![image](https://github.com/user-attachments/assets/4ccef8bc-e7a4-4348-b49b-7a4d13cf2ad0)
+
 
 ## 📂 Sobre este Repositório
 
